@@ -1,6 +1,6 @@
 # tsukurite.github.io
 
-website of tsukurite on GitHub Pages
+website of TSUKURITE on [GitHub Pages](https://pages.github.com/)
 
 ## License
 

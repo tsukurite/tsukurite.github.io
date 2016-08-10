@@ -1,0 +1,40 @@
+name:
+  tsukurite.github.io
+
+url:
+  https://tsukurite.github.io
+
+timezone:
+  Asia/Tokyo
+
+future:
+  true
+
+markdown:
+  kramdown
+
+highlighter:
+  rouge
+
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-feed
+  - jekyll-gist
+# - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+  - vendor
